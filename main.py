@@ -10,7 +10,7 @@ import io
 # DEFAULT_API_KEY = None
 DEFAULT_API_KEY = st.secrets["api_keys"]["GOOGLE_API_KEY"]
 
-# AIzaSyBqFvdyCefo4RdvBLQP0QwBq0yiZzMLQEA
+
 
 st.set_page_config(page_title="AI Research Paper Assistant", page_icon="📄", layout="wide")
 
