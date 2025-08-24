@@ -8,7 +8,7 @@ import os
 from fpdf import FPDF
 import io
 # DEFAULT_API_KEY = None
-DEFAULT_API_KEY = st.secrets["api_keys"]["GOOGLE_API_KEY"]
+DEFAULT_API_KEY = None
 if "api_keys" in st.secrets and "GOOGLE_API_KEY" in st.secrets["api_keys"]:
     DEFAULT_API_KEY = st.secrets["api_keys"]["GOOGLE_API_KEY"]
 
