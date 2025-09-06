@@ -13,4 +13,4 @@ An AI-powered Streamlit app that:
 - LangChain
 
 ## 🚀 Demo
-Try it here: [Streamlit App](https://your-app-link.streamlit.app)
+Try it here: [Streamlit App](https://research-assistant-app-zaid.streamlit.app/)
