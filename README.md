@@ -12,5 +12,8 @@ An AI-powered Streamlit app that:
 - FAISS vector search
 - LangChain
 
+## 🚀 Medium Blog for Detailed Understanding
+Try it here: [Medium Blog](https://research-assistant-app-zaid.streamlit.app/)
+
 ## 🚀 Demo
 Try it here: [Streamlit App](https://research-assistant-app-zaid.streamlit.app/)
