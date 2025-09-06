@@ -13,7 +13,7 @@ An AI-powered Streamlit app that:
 - LangChain
 
 ## 🚀 Medium Blog for Detailed Understanding
-Try it here: [Medium Blog]([https://research-assistant-app-zaid.streamlit.app/](https://medium.com/@zaidilyas1989/how-i-built-a-rag-based-ai-research-assistant-for-literature-reviews-e827f435e64d))
+Try it here: [Medium Blog](https://medium.com/@zaidilyas1989/how-i-built-a-rag-based-ai-research-assistant-for-literature-reviews-e827f435e64d)
 
 ## 🚀 Demo
 Try it here: [Streamlit App](https://research-assistant-app-zaid.streamlit.app/)
