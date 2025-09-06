@@ -51,7 +51,7 @@ st.info(
     - **Summarize PDFs** & generate structured literature reviews (Map-Reduce approach).  
     - **Identify research gaps** & answer domain-specific questions with citation-backed responses.  
     - Powered by **Retrieval-Augmented Generation (RAG)**, **FAISS vector search**, and **Google Gemini LLMs**.  
-    - Built with **Python, Streamlit, FAISS, LangChain, and Google Gemini** → showcasing expertise in **LLM integration, RAG pipelines, and applied AI app development**.  
+    - Built with **Python, Streamlit, FAISS, and Google Gemini** → showcasing expertise in **LLM integration, RAG pipelines, and applied AI app development**.  
     """
 )
 st.divider()
