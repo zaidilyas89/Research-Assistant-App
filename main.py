@@ -75,7 +75,7 @@ with st.expander("📖 Select Model"):
     with col1:
         GEMINI_MODEL = st.selectbox(
             "⚙️ Select Gemini Model:",
-            ["gemini-1.5-flash", "gemini-1.5-flash-8b", "gemini-2.5-pro"],
+            ["gemini-2.5-flash", "gemini-1.5-flash", "gemini-1.5-flash-8b", "gemini-2.5-pro"],
             index=0
         )
 
