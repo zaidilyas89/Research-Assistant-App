@@ -3,8 +3,8 @@ import google.generativeai as genai
 from pypdf import PdfReader
 import faiss
 import numpy as np
-# from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+# from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 import os
 from fpdf import FPDF
