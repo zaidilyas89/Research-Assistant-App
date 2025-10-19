@@ -3,5 +3,5 @@ google-generativeai
 pypdf
 faiss-cpu
 numpy
-langchain
+langchain==0.0.316
 fpdf
